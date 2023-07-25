@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D5603AQFrQHbcwYQGUw/profile-displayphoto-shrink_200_200/0/1687352450695?e=1692835200&v=beta&t=KbyYpJdBIVn30jSm04tqV_FwewMPGL8q8p3qkDFnF6w)
+https://media.licdn.com/dms/image/D5603AQGtWAHe2nI9ng/profile-displayphoto-shrink_400_400/0/1688406813343?e=1695859200&v=beta&t=67uXGUXLDRv4ok0n67D_LGshDsHdo9IGD6oRs0ytdeA
 
 ### Hi there 👋, I'm Joyee.
 
