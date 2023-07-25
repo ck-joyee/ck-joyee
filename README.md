@@ -1,4 +1,3 @@
-https://media.licdn.com/dms/image/D5603AQGtWAHe2nI9ng/profile-displayphoto-shrink_400_400/0/1688406813343?e=1695859200&v=beta&t=67uXGUXLDRv4ok0n67D_LGshDsHdo9IGD6oRs0ytdeA
 
 ### Hi there 👋, I'm Joyee.
 
