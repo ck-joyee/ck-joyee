@@ -18,10 +18,8 @@ Skills: Vite.js / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ck-joyee&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ck-joyee)  
 
-![GitHub metrics](https://metrics.lecoq.io/ck-joyee)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ck-joyee)  
 
-![Profile views](https://gpvc.arturio.dev/ck-joyee)  
+ 
