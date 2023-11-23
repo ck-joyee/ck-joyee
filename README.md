@@ -1,11 +1,11 @@
 
 ### Hi there 👋, I'm Joyee.
 
-Currently I am exploring MERN Stack. I have worked as a Programming Instructor at Cybernetics Robo Academy. I am also completing my B.Sc in Computer Science & Engineering.
+Currently I am exploring MERN Stack and Machine Learning. I have worked as a Programming Instructor at Cybernetics Robo Academy. I am also completing my B.Sc in Computer Science & Engineering.
 
 Skills: Vite.js / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning React & JavaScript 
+- 🌱 I’m currently learning React, JavaScript & Jupyter Notebook
 - 📫 How to reach me: Through my social media links 
 - ⚡ Fun fact: I love to explore new aspects of Technologies. 
 
