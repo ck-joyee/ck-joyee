@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Joyee.
+### Chakraborty Here👋
 
 Currently I am exploring MERN Stack and Machine Learning. I have worked as a Programming Instructor at Cybernetics Robo Academy. I am also completing my B.Sc in Computer Science & Engineering.
 
